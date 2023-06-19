@@ -1,0 +1,246 @@
+.home {
+  background-color: antiquewhite;
+  height: 100vh;
+  width: 100%;
+}
+
+.sub-div {
+  width: 375px;
+  background-color: white;
+  box-shadow: rgba(0, 0, 0, 0.25) 0px 14px 28px, rgba(0, 0, 0, 0.22) 0px 10px 10px;
+  height: 100vh;
+}
+
+.center-modal {
+  width: 375px;
+  height: 100vh;
+  margin: 0 0px 0 12px;
+}
+
+.IMG_2521 {
+  width: 45%;
+  height: 37px;
+  padding: 8px 296px 10px 35px;
+}
+
+.Kings-Arms-Cardingto {
+  font-family: "Gilroy-Regular", sans-serif;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: center;
+  color: #000;
+  font-size: 20px;
+  font-weight: 800;
+}
+
+.-High-Street-Kem {
+  font-family: "Gilroy-Regular", sans-serif;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: center;
+  color: #000;
+  margin: 4px 59.5px 19px 61.5px;
+  font-size: 12px;
+  font-weight: 300;
+}
+
+.test {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 50px;
+}
+
+.test2 {
+  width: 90%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.drinks {
+  border-radius: 17px !important;
+  border: solid 3px #ffbb33;
+  padding: 8px 15px;
+}
+
+.foods {
+  border-radius: 17px !important;
+  border: solid 3px #ffbb33;
+  padding: 8px 25px;
+}
+
+.snacks {
+  border-radius: 17px !important;
+  border: solid 3px #ffbb33;
+  padding: 8px 15px;
+}
+
+.subcategorybutton {
+  font-family: "Gilroy-Regular", sans-serif;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: center;
+  color: #000;
+  margin: 14px 0 6px 0px;
+  font-family: "Gilroy-Regular";
+  font-size: 17px;
+  font-weight: 800;
+}
+
+.DRINKS {
+  font-family: "Gilroy-Regular", sans-serif;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: center;
+  color: #000;
+  font-size: 16px;
+  font-weight: 800;
+}
+
+.Starter-soup-of-the {
+  font-family: "Gilroy-Regular", sans-serif;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: center;
+  color: #000;
+  font-size: 17px;
+  font-weight: 800;
+}
+
+.Chicken-Soup-with-mi {
+  font-family: "Gilroy-Regular", sans-serif;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: center;
+  color: #000;
+  font-size: 16px;
+  font-weight: 300;
+}
+
+.price {
+  font-family: "Gilroy-Regular", sans-serif;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: center;
+  color: #000;
+  font-size: 22px;
+  font-weight: 800;
+}
+
+.cat-heading {
+  font-family: "Gilroy-Regular", sans-serif;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: center;
+  color: #000;
+  font-size: 25px;
+  font-weight: 800;
+  font-stretch: normal;
+}
+
+.modal-content {
+  width: 350px;
+}
+
+.product_box {
+  margin: 26px 21px 10px 23px;
+  padding: 5px 15.5px auto 5px;
+  border-radius: 14px;
+  border: solid 3px #ffbb33;
+}
+
+.bottomCenter {
+  width: 375px;
+  position: fixed;
+  bottom: 0px;
+  left: 0px;
+}
+
+.Checkout {
+  font-family: "Gilroy-Regular", sans-serif;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: center;
+  color: #000;
+  font-size: 20px;
+  font-weight: 800;
+}
+
+.cat_checkout_name {
+  font-family: "Gilroy-Regular", sans-serif;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: center;
+  color: #000;
+  text-align: left;
+  font-size: 20px;
+  font-weight: 800;
+}
+
+.item_name {
+  margin: 8px 12.5px 1px 0px;
+  font-family: "Gilroy-Regular", sans-serif;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: center;
+  color: #000;
+  text-align: left;
+  font-size: 17px;
+  font-weight: 800;
+}
+
+.fixed {
+  position: fixed;
+  bottom: 0px;
+  left: 0px;
+}
+
+.checkout-comp {
+  overflow-y: scroll;
+  max-height: 460px;
+}
+
+::-webkit-scrollbar {
+  display: none;
+}
+
+.subcat-button {
+  border: 3px solid #ffbb33;
+  border-radius: 15px !important;
+}
+
+.form-check-input:checked {
+  background-color: #ffbb33 !important;
+  color: black;
+  border: 0;
+}
+
+.qty_button {
+  background-color: #ffbb33;
+  border: none;
+  padding: 5px 20px;
+  border-radius: 15px;
+}/*# sourceMappingURL=style.css.map */

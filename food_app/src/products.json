@@ -1,0 +1,211 @@
+{
+    "products": [
+      {
+        "id": 1,
+        "parentId": 7,
+        "name": "Carlsberg",
+        "description": " Smooth, a premium mild beer crafted with the finest European",
+        "price": 4.5,
+        "variants": [
+          {
+            "name": "half pint",
+            "price": 4.5
+          },
+          {
+            "name": "pint",
+            "price": 5.5
+          }
+        ],
+        "extras": [
+          {
+            "name": "lemonade",
+            "price": 0.75
+          },
+          {
+            "name": "shandy",
+            "price": 0.75
+          },
+          {
+            "name": "lime",
+            "price": 0.75
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "parentId": 7,
+        "name": "Corona",
+        "description": "A fully matured beer with an exceptional clarity",
+        "price": 7.5,
+        "variants": [
+          {
+            "name": "half pint",
+            "price": 7.5
+          },
+          {
+            "name": "pint",
+            "price": 8.5
+          }
+        ],
+        "extras": [
+          {
+            "name": "lemonade",
+            "price": 0.75
+          },
+          {
+            "name": "shandy",
+            "price": 0.75
+          },
+          {
+            "name": "lime",
+            "price": 0.75
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "parentId": 7,
+        "name": "Kingfisher",
+        "description": "A fully matured beer with an exceptional clarity",
+        "price": 6.5,
+        "variants": [
+          {
+            "name": "half pint",
+            "price": 6.5
+          },
+          {
+            "name": "pint",
+            "price": 7.5
+          }
+        ],
+        "extras": [
+          {
+            "name": "lemonade",
+            "price": 0.75
+          },
+          {
+            "name": "shandy",
+            "price": 0.75
+          },
+          {
+            "name": "lime",
+            "price": 0.75
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "parentId": 8,
+        "name": "Coke",
+        "description": "A fully matured beer with an exceptional clarity",
+        "price": 3.0,
+        "variants": [
+          {
+            "name": "half pint",
+            "price": 3.0
+          },
+          {
+            "name": "pint",
+            "price": 4.0
+          }
+        ],
+        "extras": [
+          {
+            "name": "lemonade",
+            "price": 0.75
+          },
+          {
+            "name": "shandy",
+            "price": 0.75
+          },
+          {
+            "name": "lime",
+            "price": 0.75
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "parentId": 9,
+        "name": "Absolut",
+        "description": "A fully matured beer with an exceptional clarity",
+        "price": 6.2,
+        "variants": [
+          {
+            "name": "half pint",
+            "price": 6.2
+          },
+          {
+            "name": "pint",
+            "price": 7.2
+          }
+        ],
+        "extras": [
+          {
+            "name": "lemonade",
+            "price": 0.75
+          },
+          {
+            "name": "shandy",
+            "price": 0.75
+          },
+          {
+            "name": "lime",
+            "price": 0.75
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "parentId": 10,
+        "name": "chips",
+        "description": "A fully matured beer with an exceptional clarity",
+        "price": 1.2
+      },
+      {
+        "id": 7,
+        "parentId": 4,
+        "name": "Cheese Balls",
+        "description": "A fully matured beer with an exceptional clarity",
+        "price": 6.2,
+        "extras": [
+          {
+            "name": "cheese",
+            "price": 1.75
+          }
+        ]
+      },
+      {
+        "id": 8,
+        "parentId": 4,
+        "name": "Spring Rolls",
+        "description": "A fully matured beer with an exceptional clarity",
+        "price": 4.45
+      },
+      {
+        "id": 9,
+        "parentId": 5,
+        "name": "Stuffed Bean Burger",
+        "description": "A fully matured beer with an exceptional clarity",
+        "price": 6.5
+      },
+      {
+        "id": 10,
+        "parentId": 6,
+        "name": "Mattar paneer",
+        "description": "A fully matured beer with an exceptional clarity",
+        "price": 14.5,
+        "variants": [
+          {
+            "name": "half",
+            "price": 14.5
+          },
+          {
+            "name": "full",
+            "price": 16.5
+          }
+        ]
+      }
+    ]
+  }
+  
