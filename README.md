@@ -51,9 +51,9 @@ Certainly! Here's a basic template for a README.md file for your GitHub reposito
 
 - React
 - React Router
-- Redux (optional)
 - CSS (or CSS-in-JS libraries like styled-components)
-- API integration (e.g., for authentication, payment)
+- API integration (e.g., for authentication, payment) 
+  
 
 ## Contributing
 
